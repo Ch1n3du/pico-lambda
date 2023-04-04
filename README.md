@@ -1,7 +1,8 @@
 # pico-lambda λ
 
 <figure>
-<img src="./assets/repl.png" alt="REPL demo", align="center">
+    <img src="./assets/repl.png" alt="REPL demo", align="center">
+    <figcaption>repl demo</figcaption>
 </figure>
 ![repl demo](./assets/repl.png)
 <div align="center"><i>repl demo<i></div>
